@@ -4,4 +4,3 @@ torch
 matplotlib
 ipython
 Flask
-gunicorn
