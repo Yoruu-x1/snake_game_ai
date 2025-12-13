@@ -1,0 +1,12 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore model checkpoint file that is generated during local training
+# We only want the final model.pth, but this is a good habit
+# *.pt 
+
+# Ignore system files
+.vscode/
